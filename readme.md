@@ -19,6 +19,13 @@ LICENSE: [MIT](license.md)
 
 5.[GIT.Файл.Gitignore](./add4.md)
 
+6.[Git. Ветвление](./add5.md)
+
+7.[Git конфликты](./add6.md)
+
+8.[Методики ветвления](./add7.md)
+
+9.[Git Форк](./add8.md)
 
 ----
 
